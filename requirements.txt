@@ -1,2 +1,8 @@
 streamlit-0.68.0-py2.py3-none-any.whl
 streamlit_observable-0.0.8-py3-none-any.whl
+streamlit_observable
+pandas
+numpy
+enum
+requests
+json
